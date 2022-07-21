@@ -9,7 +9,7 @@
 
 - Aogiri Tree Projects : **Twitch Followers, TikTok Followers, Instagram Followers, Facebook Followers!**
 
-- Aogiri Tree Projects : **YouTube Sub Bot, Roblox Followers/friends, Kahoot Raider bot!, Spotify Followers!and more!**
+- Aogiri Tree Projects : **YouTube Sub Bot, Roblox Followers/friends, Kahoot Raider bot, Spotify Followers and more!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
