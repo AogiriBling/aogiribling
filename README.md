@@ -1,7 +1,7 @@
 <h1 align="center">Yo, Bling is here.</h1>
 <h3 align="center">You found me, I rarely use github so don't care about readme file.</h3>
 
-- Hey, I am currently working on my discord server Aogiri Tree. [Aogiri Tree (discord)](https://discord.gg/ghoul)
+- Hey, I am currently working on my discord server Aogiri Tree. [Aogiri Tree (discord)]([https://discord.gg/ghoul](https://discord.gg/ZsXWJNpXKr))
 
 - What is Aogiri Tree? **Free social media botting.**
 
@@ -10,6 +10,8 @@
 - Aogiri Tree Projects : **Twitch Followers, TikTok Followers, Instagram Followers, Facebook Followers!**
 
 - Aogiri Tree Projects : **YouTube Sub Bot, Roblox Followers/friends, Kahoot Raider bot, Spotify Followers and more!**
+
+<h1 align="center">Aogiri Tree was officially discontinued in 2022</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
