@@ -10,6 +10,8 @@
 - Aogiri Tree Projects : **Twitch Followers, TikTok Followers, Instagram Followers, Facebook Followers!**
 
 - Aogiri Tree Projects : **YouTube Sub Bot, Roblox Followers/friends, Kahoot Raider bot, Spotify Followers and more!**
+- 
+- Aogiri Tree was officially discord's first social media/botting followers & more server, founded by Bling in 2016, which is now discontinued in 2022 and continued as V2 in mid 2023 with extremely new awesome features and more and current account is "awesomelybling" or "Bling#9999" ! 
 
 <h1 align="center">Aogiri Tree was officially discontinued in 2022</h1>
 
