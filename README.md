@@ -1,9 +1,9 @@
 <h1 align="center">Yo, Bling is here.</h1>
 <h3 align="center">You found me, I rarely use github so don't care about readme file.</h3>
 
-- Hey, I am currently working on my discord server Aogiri Tree. [Aogiri Tree (discord)]([https://discord.gg/ghoul](https://discord.gg/ZsXWJNpXKr))
+- Hey, I am currently working on my discord server Aogiri Tree. [Aogiri Tree (discord)]([https://discord.gg/bling](https://discord.gg/ZsXWJNpXKr))
 
-- What is Aogiri Tree? **Free social media botting.**
+- What is Aogiri Tree? **Discord's First social media botting commands founded in 2016.**
 
 - Check out my videos! [Aogiri Tree (youtube)](https://www.youtube.com/channel/UC8HKt_1eQNKlnqgXMQ-jEog)
 
@@ -23,4 +23,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h1 align="center">Aogiri Tree V2 is here in mid 2023 as "AogiriTree" discord vanity!</h1>
+<h1 align="center">My latest project of 2024 : discord.gg/bling</h1>
